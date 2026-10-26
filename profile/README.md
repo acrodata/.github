@@ -13,4 +13,5 @@
 
 Welcome to the Acrodata community!
 
-<img width="1024" alt="visapp editor" src="https://github.com/user-attachments/assets/1b82ec15-dda5-41d8-a6ae-329552ef179a" />
+<img width="1024" alt="visapp editor" src="https://github.com/user-attachments/assets/2efd72c9-bf39-4dc0-ba7b-260c4122018f" />
+
